@@ -130,7 +130,7 @@ footer {
     justify-content: center;
     align-items: center;
 }
-@media screen and (max-width: 428px) {
+@media screen and (max-width: 488px) {
     .principal {
         width: 100%;
         margin: auto;
